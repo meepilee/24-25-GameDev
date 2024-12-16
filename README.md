@@ -5,10 +5,13 @@ Certifications:
 Game Dev 1, Digital Media, Programming 1, Programming 2
 
 ## Term 1 Projects
-#### Shape Game
+### Shape Game
 
 Small game in which the player uses the arrow keys as movement to catch shapes which run away from them. Built in processing.
 
 https://github.com/meepilee/24-25-gamedev/blob/main/src/term1/ShapeGame%203.zip
 ## Term 2 Projects
+### Astrocats
+![alt text](https://github.com/meepilee/24-25-gamedev/blob/main/images/Screenshot%202024-12-16%20at%208.17.54%20AM.png)
+
 
