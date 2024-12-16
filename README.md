@@ -1,6 +1,5 @@
-# Brannon Lai GameDev Portfolio
-hallo, I'm a senior graduating this year, taking this class for fun.
-I know java and c++ decently well, and my favorite games recently have been tower defenses and rhythm games.
+# Brannon Lai Game Development Portfolio
+Game Dev I Portfolio| Brannon Lai | Contact Info [Email Someone](mailto:branbran3gt@gmail.com)
 
 ## Term 1 Projects
 
